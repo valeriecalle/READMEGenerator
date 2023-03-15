@@ -8,16 +8,22 @@ The Professional README Generator is a command-line application that dynamically
 * [Usage](#usage)
 * [Methodology](#methodology)
 * [License](#license)
+* [Contributing](*Contributing)
+* [Tests](*Tests)
+* [Questions](*Questions)
+
 
 # Installation
-To run tests, run the following command:
-npm `test`
+To install the dependencies, run the following command:
+
+`npm i inquirer@8.2.4`
 
 ## Usage
 To use the application, run the following command:
 
-Copy code
-node index.js
+
+`node index.js`
+
 Answer the prompts that follow to provide information about your project, including the project title, description, installation instructions, usage information, contribution guidelines, and test instructions. Choose a license for your application from a list of options, and enter your GitHub username and email address.
 
 ## Methodology
@@ -40,14 +46,17 @@ To contribute to this project, please follow the Contributor Covenant Code of Co
 # Tests
 To run tests, run the following command:
 
-bash
-Copy code
-npm test
-Questions
+`npm test`
 
-## If you have any questions, please feel free to contact me:
+# Questions
+
+If you have any questions, please feel free to contact me:
 GitHub Profile: https://github.com/valeriecalle
+
 Email: valerie.calle@icloud.com
+
+<img src= "https://user-images.githubusercontent.com/101648427/225198542-4d075613-3a9c-462e-b781-68197d0f4d6c.jpeg" alt= "Valerie Calle, Web Developer" width="25%" />
+
 
 # Walkthrough Video
 
